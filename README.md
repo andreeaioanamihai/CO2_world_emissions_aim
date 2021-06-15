@@ -1,2 +1,2 @@
 # carbon_emissions_world_aim
-• Explored Carbon Dioxide and Greenhouse Gas emissions in top countries with higher rates to increase global awareness and apply new policies to impact climate change. Softwares: Python, Excel, PowerPoint.
+• Analyzed Carbon Dioxide and Greenhouse Gas Emissions in top countries with higher rates using Python. Provided insights and data stories to increase global awareness and apply new policies to impact climate change. Tech used: Python, Excel, PowerPoint.
